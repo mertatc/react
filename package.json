@@ -1,0 +1,22 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertatc/react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertatc/react/issues"
+  },
+  "homepage": "https://github.com/mertatc/react#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
