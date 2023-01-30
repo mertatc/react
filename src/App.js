@@ -9,7 +9,7 @@ function App() {
  
   return (
     <div className="container">
-      hello
+      hellos
       <div>
         <input className="input" placeholder="Enter Ctiy..."/>
       </div>
